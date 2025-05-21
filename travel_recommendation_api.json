@@ -6,12 +6,12 @@
       "cities": [
         {
           "name": "Sydney, Australia",
-          "imageUrl": "enter_your_image_for_sydney.jpg",
+          "imageUrl": "https://www.downunderendeavours.com/wp-content/uploads/2019/05/sydney-things-to-do-800x500-Sydney-Opera-House-8.jpg",
           "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
         },
         {
           "name": "Melbourne, Australia",
-          "imageUrl": "enter_your_image_for_melbourne.jpg",
+          "imageUrl": "https://images.gostudy.com.au/w:1400/h:800/q:mauto/f:best/ig:avif/id:bd30fb461f41f579c2cf695e26ccb0d4/https://gostudyaus.es/MEL_header_2-1.jpg",
           "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
         }
       ]
@@ -67,13 +67,13 @@
     {
       "id": 1,
       "name": "Bora Bora, French Polynesia",
-      "imageUrl": "enter_your_image_for_bora-bora.jpg",
+      "imageUrl": "https://www.tahititourisme.com/app/uploads/iris-images/23893/cg.v-bora-dscf2511b-hi-scaled-4-1600x800-f50_50.jpg",
       "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
     },
     {
       "id": 2,
       "name": "Copacabana Beach, Brazil",
-      "imageUrl": "enter_your_image_for_copacabana.jpg",
+      "imageUrl": "https://voyeglobal.com/wp-content/uploads/2025/02/thumbnail-23.jpg",
       "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
     }
   ]
